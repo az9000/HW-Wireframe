@@ -1,0 +1,16 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+header, nav {
+    
+    background-color: lightgray;
+    line-height: 80px;
+    text-align: center;    
+}
+
+h1 {
+    font-size: 16px;
+    color: grey;
+}
